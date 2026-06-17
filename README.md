@@ -23,3 +23,12 @@ Decision Confidence measures the factors that reduce uncertainty and increase pu
 Created by Atom Foundry.
 
 https://atomfoundry.dev/framework/decision-confidence
+
+## Position Within The AI Commerce Graph™
+
+Decision Confidence™ measures how recommendation quality influences purchase confidence.
+
+The framework is part of the AI Commerce Graph™.
+
+Learn more:
+https://github.com/Atom-Foundry/AI-Commerce-Graph
